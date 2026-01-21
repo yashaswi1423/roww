@@ -1,6 +1,9 @@
 {
   "name": "roww-content-bot",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "ROWW - AI-powered Instagram Reels content generator for viral content creation",
+  "keywords": ["instagram", "reels", "content-generator", "social-media", "viral", "chatbot", "react"],
+  "author": "Your Name",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
@@ -11,6 +14,7 @@
     "@types/node": "^16.18.126",
     "@types/react": "^19.2.9",
     "@types/react-dom": "^19.2.3",
+    "lucide-react": "^0.562.0",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-scripts": "5.0.1",
