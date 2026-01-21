@@ -42,8 +42,8 @@ ROWW is an AI-powered chatbot designed specifically for generating viral Instagr
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd roww-content-bot
+git clone https://github.com/yashaswi1423/roww.git
+cd roww
 ```
 
 2. Install dependencies:
